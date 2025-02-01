@@ -15,7 +15,7 @@ Este proyecto permite:
 
 - HTML
 - CSS
-- JavaScript (DOM Manipulation)
+- JavaScript
 
 ## 🚀 Cómo usar
 
