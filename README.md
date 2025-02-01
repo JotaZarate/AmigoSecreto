@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-¡Bienvenido al desafio de**Amigo Secreto**! 🎉 Un proyecto realizado por Jhon Guerrero en JavaScript para sortear nombres y elegir un amigo secreto de una lista.
+¡Bienvenido al desafio de **Amigo Secreto**! 🎉 Un proyecto realizado por Jhon Guerrero en JavaScript para sortear nombres y elegir un amigo secreto de una lista.
 Esto hace parte del Challenge de Principiante en Programación
 
 ## 📌 Descripción
